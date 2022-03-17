@@ -31,7 +31,6 @@ class Game:
         clock = pygame.time.Clock()
 
         while not self._should_quit():
-            print(self.components[0].__class__.__name__)
             self.screen.fill(gray)
 
             self._cleanup()
