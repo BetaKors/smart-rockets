@@ -1,0 +1,3 @@
+WIDTH = 1366
+HEIGHT = 768
+FPS = 60
