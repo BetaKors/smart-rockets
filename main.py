@@ -12,5 +12,3 @@ with Game() as game:
         game.components.append(Rocket(game, manager))
 
     game.mainloop()
-
-# TODO rocket manager component to manage smart rockets and update them
